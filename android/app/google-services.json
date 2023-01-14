@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132540660917",
+    "project_id": "aplicacaofirebase-f7ca8",
+    "storage_bucket": "aplicacaofirebase-f7ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132540660917:android:8bac1120deed7f7f9712fc",
+        "android_client_info": {
+          "package_name": "com.aplicacaoshifter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132540660917-9iija99o4vnsc5s5h9pk4t05s4sjkl6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAd-aKMTsZKDlElIDic_O2tAyQHcFY8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132540660917-9iija99o4vnsc5s5h9pk4t05s4sjkl6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
